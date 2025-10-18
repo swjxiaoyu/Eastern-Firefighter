@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "title": "大型场馆应急预案",
+  "coverUrl": "/images/placeholders/course-3.svg",
+  "summary": "人群疏散、临场指挥与协同。",
+  "level": "advanced",
+  "duration": 16,
+  "lecturer": "周指挥",
+  "outline": ["场馆风险评估","疏散路线设计","多部门联动","演练脚本与指挥"],
+  "forPeople": "大型综合体与场馆运维人员"
+} 

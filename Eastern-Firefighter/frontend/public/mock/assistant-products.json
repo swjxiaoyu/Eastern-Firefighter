@@ -1,0 +1,8 @@
+[
+  {"id":2009,"title":"车载灭火器","price":88.00,"coverUrl":"/images/products/2009-1.svg","scene":"car","category":"灭火器"},
+  {"id":2010,"title":"家用简易灭火器","price":59.00,"coverUrl":"/images/products/2010-1.svg","scene":"home","category":"灭火器"},
+  {"id":2007,"title":"手提式干粉灭火器","price":128.00,"coverUrl":"/images/products/2007-1.svg","scene":"general","category":"干粉灭火器"},
+  {"id":2008,"title":"二氧化碳灭火器","price":199.00,"coverUrl":"/images/products/2008-1.svg","scene":"general","category":"灭火器"},
+  {"id":2002,"title":"消防应急包","price":129.00,"coverUrl":"/images/products/2002-1.svg","scene":"home","category":"应急包"},
+  {"id":2021,"title":"应急安全锤","price":39.00,"coverUrl":"/images/products/2021-1.svg","scene":"car","category":"工具"}
+] 

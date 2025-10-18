@@ -1,0 +1,13 @@
+{
+  "orderNo": "EF202509090002",
+  "status": "SHIPPED",
+  "payAmount": 199.00,
+  "items": [
+    {"skuId":3008,"productName":"二氧化碳灭火器","quantity":1,"amount":199.00,"coverUrl":"/images/products/2008-1.svg"}
+  ],
+  "timeline": [
+    {"time":"2025-09-09T16:45:00","text":"下单成功"},
+    {"time":"2025-09-09T16:46:05","text":"支付完成"},
+    {"time":"2025-09-09T18:10:22","text":"商家已发货"}
+  ]
+} 

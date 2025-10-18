@@ -1,0 +1,12 @@
+{
+  "orderNo": "EF202509080003",
+  "status": "PENDING",
+  "payAmount": 399.00,
+  "items": [
+    {"skuId":3012,"productName":"消防战斗服","quantity":1,"amount":399.00,"coverUrl":"/images/products/2012-1.svg"}
+  ],
+  "timeline": [
+    {"time":"2025-09-08T09:12:00","text":"下单成功"},
+    {"time":"2025-09-08T09:12:30","text":"待支付"}
+  ]
+} 

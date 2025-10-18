@@ -1,0 +1,10 @@
+[
+  {"id":1,"title":"居家消防基础","coverUrl":"/images/placeholders/course-1.svg","summary":"掌握灭火器种类与使用、火场逃生要点。","level":"beginner","duration":6,"lecturer":"王教官"},
+  {"id":2,"title":"单位消防管理员","coverUrl":"/images/placeholders/course-2.svg","summary":"隐患排查、制度建设与演练组织。","level":"intermediate","duration":12,"lecturer":"李工程师"},
+  {"id":3,"title":"大型场馆应急预案","coverUrl":"/images/placeholders/course-3.svg","summary":"人群疏散、临场指挥与协同。","level":"advanced","duration":16,"lecturer":"周指挥"},
+  {"id":4,"title":"电动车消防安全","coverUrl":"/images/placeholders/course-1.svg","summary":"电池火灾成因与预防、充电规范。","level":"beginner","duration":4,"lecturer":"赵老师"},
+  {"id":5,"title":"厨房防火与油锅起火处置","coverUrl":"/images/placeholders/course-2.svg","summary":"厨房高危场景的防与救。","level":"beginner","duration":3,"lecturer":"张老师"},
+  {"id":6,"title":"学校消防与疏散演练","coverUrl":"/images/placeholders/course-3.svg","summary":"校园演练组织与路线设计。","level":"intermediate","duration":8,"lecturer":"教官团队"},
+  {"id":7,"title":"企业应急指挥体系","coverUrl":"/images/placeholders/course-1.svg","summary":"ICS/指挥体系与协同联动。","level":"advanced","duration":14,"lecturer":"企业内训讲师"},
+  {"id":8,"title":"社区志愿者消防实操","coverUrl":"/images/placeholders/course-2.svg","summary":"灭火/疏散/报警/急救基础。","level":"beginner","duration":6,"lecturer":"社区教官"}
+]

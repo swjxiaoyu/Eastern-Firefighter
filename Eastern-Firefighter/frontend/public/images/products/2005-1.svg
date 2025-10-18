@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+	<defs>
+		<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0%" stop-color="rgb(17, 102, 17)" stop-opacity="0.85"/>
+			<stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.85"/>
+		</linearGradient>
+	</defs>
+	<rect width="100%" height="100%" fill="url(#g)"/>
+	<g fill="#ffffff" opacity="0.08">
+		<circle cx="120" cy="120" r="100"/>
+		<circle cx="700" cy="520" r="120"/>
+		<rect x="520" y="60" width="180" height="120" rx="12"/>
+	</g>
+	<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="42" fill="#ffffff" style="font-weight:700; letter-spacing:1px;">
+		应急对讲机
+	</text>
+	<text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#e5e7eb" style="opacity:.9">ID: 2005 · 图1</text>
+</svg>

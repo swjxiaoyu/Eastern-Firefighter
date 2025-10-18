@@ -1,0 +1,40 @@
+[
+  {
+    "orderNo": "EF202509100001",
+    "status": "PAID",
+    "createdAt": "2025-09-10T10:20:00",
+    "payAmount": 317.00,
+    "items": [
+      {"skuId":3009,"productName":"车载灭火器","quantity":1,"amount":88.00,"coverUrl":"/images/products/2009-1.svg"},
+      {"skuId":2002,"productName":"消防应急包","quantity":1,"amount":129.00,"coverUrl":"/images/products/2002-1.svg"},
+      {"skuId":2010,"productName":"家用简易灭火器","quantity":1,"amount":59.00,"coverUrl":"/images/products/2010-1.svg"}
+    ]
+  },
+  {
+    "orderNo": "EF202509090002",
+    "status": "SHIPPED",
+    "createdAt": "2025-09-09T16:45:00",
+    "payAmount": 199.00,
+    "items": [
+      {"skuId":3008,"productName":"二氧化碳灭火器","quantity":1,"amount":199.00,"coverUrl":"/images/products/2008-1.svg"}
+    ]
+  },
+  {
+    "orderNo": "EF202509080003",
+    "status": "PENDING",
+    "createdAt": "2025-09-08T09:12:00",
+    "payAmount": 399.00,
+    "items": [
+      {"skuId":3012,"productName":"消防战斗服","quantity":1,"amount":399.00,"coverUrl":"/images/products/2012-1.svg"}
+    ]
+  },
+  {
+    "orderNo": "EF202509070004",
+    "status": "FINISHED",
+    "createdAt": "2025-09-07T14:30:00",
+    "payAmount": 128.00,
+    "items": [
+      {"skuId":3007,"productName":"手提式干粉灭火器","quantity":1,"amount":128.00,"coverUrl":"/images/products/2007-1.svg"}
+    ]
+  }
+] 

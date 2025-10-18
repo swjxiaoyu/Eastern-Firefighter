@@ -1,0 +1,7 @@
+[
+  {"id":1,"name":"东方应急科普馆","city":"上海","theme":"fire","themeName":"消防安全","summary":"沉浸式演练重现火场逃生要点。","coverUrl":"/images/placeholders/museum-1.svg"},
+  {"id":2,"name":"地震体验中心","city":"成都","theme":"earthquake","themeName":"地震避险","summary":"模拟震感与避险姿势教学。","coverUrl":"/images/placeholders/museum-2.svg"},
+  {"id":3,"name":"城市防灾展馆","city":"北京","theme":"综合","themeName":"综合防灾","summary":"城市洪涝、火灾、地震一体化科普。","coverUrl":"/images/placeholders/museum-1.svg"},
+  {"id":4,"name":"急救技能馆","city":"广州","theme":"firstaid","themeName":"急救科普","summary":"心肺复苏、止血包扎实操。","coverUrl":"/images/placeholders/museum-2.svg"},
+  {"id":5,"name":"安全教育基地","city":"杭州","theme":"fire","themeName":"消防安全","summary":"校园/社区安全教育综合体验。","coverUrl":"/images/placeholders/museum-1.svg"}
+]

@@ -1,0 +1,14 @@
+{
+  "messages": [
+    { "role": "assistant", "text": "你好，我是AI导购，可以帮你快速找到合适的应急装备。" },
+    { "role": "user", "text": "我想要一款车载灭火器。" },
+    { "role": "assistant", "text": "推荐3-5年有效期、体积小巧且支持年检的车型。下方已为你挑选。" },
+    { "role": "user", "text": "家庭还需要应急包，有组合推荐吗？" },
+    { "role": "assistant", "text": "可以选择车载灭火器+应急包的组合，覆盖车内突发与家庭急救。" }
+  ],
+  "suggestions": [
+    { "id": 2009, "title": "车载灭火器", "price": 88.00, "coverUrl": "/images/products/2009-1.svg" },
+    { "id": 2002, "title": "消防应急包", "price": 129.00, "coverUrl": "/images/products/2002-1.svg" },
+    { "id": 2010, "title": "家用简易灭火器", "price": 59.00, "coverUrl": "/images/products/2010-1.svg" }
+  ]
+} 

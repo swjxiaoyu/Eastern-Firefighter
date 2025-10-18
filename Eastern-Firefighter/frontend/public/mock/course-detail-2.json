@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "title": "单位消防管理员",
+  "coverUrl": "/images/placeholders/course-2.svg",
+  "summary": "隐患排查、制度建设与演练组织。",
+  "level": "intermediate",
+  "duration": 12,
+  "lecturer": "李工程师",
+  "outline": ["制度与台账","巡检要点","演练组织与评估","事故复盘"],
+  "forPeople": "企业安全管理岗、物业管理者"
+} 

@@ -1,0 +1,13 @@
+{
+  "orderNo": "EF202509070004",
+  "status": "FINISHED",
+  "payAmount": 128.00,
+  "items": [
+    {"skuId":3007,"productName":"手提式干粉灭火器","quantity":1,"amount":128.00,"coverUrl":"/images/products/2007-1.svg"}
+  ],
+  "timeline": [
+    {"time":"2025-09-07T14:30:00","text":"下单成功"},
+    {"time":"2025-09-07T14:31:05","text":"支付完成"},
+    {"time":"2025-09-08T09:20:10","text":"签收成功，交易完成"}
+  ]
+} 

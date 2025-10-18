@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "地震体验中心",
+  "city": "成都",
+  "theme": "earthquake",
+  "themeName": "地震避险",
+  "summary": "模拟震感与避险姿势教学。",
+  "coverUrl": "/images/placeholders/museum-2.svg",
+  "contentHtml": "<p>通过震感平台体验不同震级，并学习生命三角、就地避险与疏散要点。</p>"
+} 
